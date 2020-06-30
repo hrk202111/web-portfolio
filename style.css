@@ -49,7 +49,7 @@ section{
 .single-experience{
     box-shadow: 15px 15px 30px gray;
     border-radius: 5px;
-    height: 70%;
+    height: 80%;
 }
 .experience-area{
     background-image: url(images/exp-bg.png);
@@ -70,9 +70,9 @@ section{
     color: rgb(238, 164, 28);
 }
 .experiences{
-    margin-left: 38px;
+    margin-left: 2%;
     box-shadow: 15px 15px 30px gray;
-    border-radius: 5px;
+    border-radius: 2px;
     height:80%;
 }
 footer{
