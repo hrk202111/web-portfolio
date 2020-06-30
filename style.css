@@ -16,7 +16,7 @@ h2{
     color: orange;
 }
 .half-width{
-    width: 40%;
+    width: 35%;
     float: left;
     margin-left: 2%;
     padding-left: 2%;
@@ -27,8 +27,7 @@ h2{
     }
 section{
     height: 500px;
-    padding-bottom: 400px;
-    
+    padding-bottom: 400px;  
 }
 .link-button{
     text-decoration: none;
@@ -48,7 +47,7 @@ section{
     background-position: right;
 }
 .single-experience{
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 15px 15px 30px gray;
     border-radius: 5px;
     height: 70%;
 }
@@ -67,8 +66,18 @@ section{
     border-image: linear-gradient(180deg,blue,cyan);   
     border-image-slice: 1; 
 }
-footer{
-  text-align: center;  
+#dream{
+    color: rgb(238, 164, 28);
 }
-    
+.experiences{
+    margin-left: 38px;
+    box-shadow: 15px 15px 30px gray;
+    border-radius: 5px;
+    height:80%;
+}
+footer{
+    text-align: center;  
+  }
+
+
 
