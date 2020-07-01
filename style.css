@@ -16,18 +16,18 @@ h2{
     color: orange;
 }
 .half-width{
-    width: 35%;
+    width: 25%;
     float: left;
     margin-left: 2%;
     padding-left: 2%;
 }
-.top-banner{
+.first-banner{
     background-image:url(images/top-banner.png);
     background-repeat: no-repeat; 
     }
 section{
     height: 500px;
-    padding-bottom: 400px;  
+    padding-bottom: 500px;
 }
 .link-button{
     text-decoration: none;
@@ -41,7 +41,7 @@ section{
     padding-left: 60%;
     margin-top: 10px;  
 }
-.dream-area{
+.second-banner{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
@@ -49,9 +49,11 @@ section{
 .single-experience{
     box-shadow: 15px 15px 30px gray;
     border-radius: 5px;
-    height: 80%;
+    height: 70%;
+    width: 45%;
+    padding: 4% 1% 1% 1%;
 }
-.experience-area{
+.third-banner{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
@@ -78,6 +80,8 @@ section{
 footer{
     text-align: center;  
   }
-
+#pic{
+    width: fit-content;
+}
 
 
